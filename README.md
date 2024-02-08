@@ -2,25 +2,27 @@
 **Xero Certified Advisor | Quickbooks ProAdvisor**
 
 ### Software: 
-          Xero, Quickbooks Online, Dext, Lightyear, Deputy, Karbon HQ,
-          Cliniko, Powerpass, Keypay, Employment Hero
+          Xero, Quickbooks Online, 
+          Dext, Lightyear, Hubdoc,
+          Deputy, Keypay, Employment Hero
+          Karbon HQ, Cliniko, Powerpass, 
 
 ### Education
           Bachelor of Science in Accountancy 
-          Polytechnic University of the Philippines -Lopez 
+          Polytechnic University of the Philippines - Lopez 
           April 2009
 
 ### Work Experience
 
-**Senior Bookkeeper at Biscuit Business Services **
-   MSP: Techno Global Team 
-   (November 2018 – Present)
+**Senior Bookkeeper at Biscuit Business Services**
+  MSP: Techno Global Team 
+  (November 2018 – Present)
 
-**Bookkeeper at The Philippines Recruitment Co. **
-   MSP: CLEAR Corporate Solutions Philippines Inc.
-   (April 2017 – June 2018)
+**Bookkeeper at The Philippines Recruitment Co.**
+  MSP: CLEAR Corporate Solutions Philippines Inc.
+  (April 2017 – June 2018)
 
-**Senior Financial Analyst at Deutsche Knowledge Services **
+**Senior Financial Analyst at Deutsche Knowledge Services**
   Dept: Asset and Wealth Management - Intercompany Team (US region) - Financial Analysis
   June 2015 – March 2017
 
@@ -28,7 +30,7 @@
   Media representative of CN, CNN, TIME, Fortune and Nikkei Business in the Philippines
   February 2013 – April 2015
 
-**Collections Associate at Convergys Philippines Services Corporation **
+**Collections Associate at Convergys Philippines Services Corporation**
   June 2009 – October 2012
 
 
