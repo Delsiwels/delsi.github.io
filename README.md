@@ -18,20 +18,20 @@
 _MSP: Techno Global Team_ <br />
 _November 2018 – Present_
 
-**Bookkeeper at The Philippines Recruitment Co.**
-  MSP: CLEAR Corporate Solutions Philippines Inc.
-  (April 2017 – June 2018)
+**Bookkeeper at The Philippines Recruitment Co.** <br />
+_MSP: CLEAR Corporate Solutions Philippines Inc._ <br />
+_April 2017 – June 2018_ 
 
-**Senior Financial Analyst at Deutsche Knowledge Services**
-Dept: Asset and Wealth Management - Intercompany Team (US region) - Financial Analysis
-June 2015 – March 2017
+**Senior Financial Analyst at Deutsche Knowledge Services** <br />
+_Dept: Asset and Wealth Management - Intercompany Team (US region) - Financial Analysis_ <br />
+_June 2015 – March 2017_
 
-**Senior Accountant at Global Media Consultants, Inc.**
-  Media representative of CN, CNN, TIME, Fortune and Nikkei Business in the Philippines
-  February 2013 – April 2015
+**Senior Accountant at Global Media Consultants, Inc.** <br />
+_Media representative of CN, CNN, TIME, Fortune and Nikkei Business in the Philippines_ <br />
+_February 2013 – April 2015_
 
-**Collections Associate at Convergys Philippines Services Corporation**
-  June 2009 – October 2012
+**Collections Associate at Convergys Philippines Services Corporation** <br />
+_June 2009 – October 2012_
 
 
 ## Projects
