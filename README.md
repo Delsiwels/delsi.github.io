@@ -7,24 +7,24 @@
           Deputy, Keypay, Employment Hero
           Karbon HQ, Cliniko, Powerpass, 
 
-### Education
+## Education
           Bachelor of Science in Accountancy 
           Polytechnic University of the Philippines - Lopez 
           April 2009
 
-### Work Experience
+## Work Experience
 
-**Senior Bookkeeper at Biscuit Business Services**__
-MSP: Techno Global Team__
-November 2018 – Present__
+_**Senior Bookkeeper at Biscuit Business Services**_
+_MSP: Techno Global Team_
+November 2018 – Present
 
 **Bookkeeper at The Philippines Recruitment Co.**
   MSP: CLEAR Corporate Solutions Philippines Inc.
   (April 2017 – June 2018)
 
 **Senior Financial Analyst at Deutsche Knowledge Services**
-  Dept: Asset and Wealth Management - Intercompany Team (US region) - Financial Analysis
-  June 2015 – March 2017
+Dept: Asset and Wealth Management - Intercompany Team (US region) - Financial Analysis
+June 2015 – March 2017
 
 **Senior Accountant at Global Media Consultants, Inc.**
   Media representative of CN, CNN, TIME, Fortune and Nikkei Business in the Philippines
@@ -34,4 +34,4 @@ November 2018 – Present__
   June 2009 – October 2012
 
 
-### Projects
+## Projects
