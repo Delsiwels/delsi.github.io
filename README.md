@@ -1,5 +1,10 @@
 # Senior Bookkeeper 
-**Xero Certified Advisor | Quickbooks ProAdvisor**
+**Xero Certified Advisor | Quickbooks ProAdvisor** <br />
+
+6+ years of experience in Australian bookkeeping using Xero and Quickbooks across a wide range of industries and clients
+- [ ] AU payroll processing
+- [ ] TPAR
+- [ ] Preparation of BAS and IAS
 
 ## Software
 * Xero
@@ -21,6 +26,7 @@
 ## Work Experience
 
 **Senior Bookkeeper at Biscuit Business Services** <br />
+_an Australian Company_ <br />
 _MSP: Techno Global Team_ <br />
 _November 2018 – Present_
 * Set up an internal company site
@@ -29,6 +35,7 @@ _November 2018 – Present_
 * Communicates with clients directly, sends and responds to queries
   
 **Bookkeeper at The Philippines Recruitment Co.** <br />
+_an Australian Company_ <br />
 _MSP: CLEAR Corporate Solutions Philippines Inc._ <br />
 _April 2017 – June 2018_ 
 * Created financial dashboard and business performance KPIs
@@ -39,7 +46,7 @@ _April 2017 – June 2018_
 * Prepared SLAs and required vendor forms
 
 **Senior Financial Analyst at Deutsche Knowledge Services** <br />
-_Dept: Asset and Wealth Management - Intercompany Team (US region) - Financial Analysis_ <br />
+_Asset & Wealth Management - Intercompany Team (US) - Financial Analysis_ <br />
 _June 2015 – March 2017_
 * Developed an efficient working relationship with onshore counterparts in the US, Asia Pacific, and UK region related to processes, SLAs, queries, and ad hoc projects & analysis,   cross-border payments, and revenue transfers 
 * Performed end-to-end process relating to Intercompany transactions including journal entry booking, general ledger reconciliation, revenue forecasting, and balance sheet    substantiation
