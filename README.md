@@ -14,9 +14,9 @@
 
 ## Work Experience
 
-_**Senior Bookkeeper at Biscuit Business Services**_
-_MSP: Techno Global Team_
-November 2018 – Present
+**Senior Bookkeeper at Biscuit Business Services**<br/>
+_MSP: Techno Global Team_<br/>
+_November 2018 – Present_<br/>
 
 **Bookkeeper at The Philippines Recruitment Co.**
   MSP: CLEAR Corporate Solutions Philippines Inc.
