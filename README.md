@@ -28,7 +28,7 @@
 **Senior Bookkeeper at Biscuit Business Services** _(Australian company)_ <br />
 _MSP: Techno Global Team_ <br />
 _November 2018 – Present_
-* Contributed proactively to the continuous improvement of the company including setting up of an internal company site
+* Contributed proactively to the continuous improvement of the company including setting up an internal company site
 * Focused on completing jobs within agreed timeframes and time budget
 * Coordinated with team members to ensure good workflow across the company
 * Prepared BASes and IASes for lodgement
@@ -71,5 +71,10 @@ cardholders
 
 ## Projects
 
+
 ## Contact
 Delsi Sierra - noradels@yahoo.com
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="delsi-sierra" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/delsi-sierra?trk=profile-badge">Delsi Sierra</a></div>
+              
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
