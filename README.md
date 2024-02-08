@@ -2,21 +2,21 @@
 **Xero Certified Advisor | Quickbooks ProAdvisor** <br />
 
 6+ years of experience in Australian bookkeeping using Xero and Quickbooks across a wide range of industries and clients
-- [ ] AU payroll processing
-- [ ] TPAR
-- [ ] Preparation of BAS and IAS
+- [ ]  AU payroll processing
+- [ ]  TPAR
+- [ ]  Preparation of BAS and IAS
 
 ## Software
-* Xero
-* Quickbooks Online
-* Dext
-* Lightyear
-* Hubdoc
-* Deputy
-* Keypay
-* Employment Hero
-* Karbon HQ
-* Cliniko
+[✔]  Xero
+[✔]  Quickbooks Online
+[✔]  Dext
+[✔]  Lightyear
+[✔]  Hubdoc
+[✔]  Deputy
+[✔]  Keypay
+[✔]  Employment Hero
+[✔]  Karbon HQ
+[✔]  Cliniko
 
 ## Education
           Bachelor of Science in Accountancy 
@@ -25,8 +25,7 @@
 
 ## Work Experience
 
-**Senior Bookkeeper at Biscuit Business Services** <br />
-_an Australian Company_ <br />
+**Senior Bookkeeper at Biscuit Business Services** _(Australian company)_ <br />
 _MSP: Techno Global Team_ <br />
 _November 2018 – Present_
 * Set up an internal company site
@@ -34,8 +33,7 @@ _November 2018 – Present_
 * Prepares EOY Payroll reports for STP Finalisation
 * Communicates with clients directly, sends and responds to queries
   
-**Bookkeeper at The Philippines Recruitment Co.** <br />
-_an Australian Company_ <br />
+**Bookkeeper at The Philippines Recruitment Co.** _(Australian company)_ <br />
 _MSP: CLEAR Corporate Solutions Philippines Inc._ <br />
 _April 2017 – June 2018_ 
 * Created financial dashboard and business performance KPIs
