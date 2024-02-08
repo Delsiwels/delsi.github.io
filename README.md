@@ -1,7 +1,5 @@
-<p align="center">
 # Senior Bookkeeper 
 **Xero Certified Advisor | Quickbooks ProAdvisor**
- </p>
 
 ## Software
 * Xero
