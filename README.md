@@ -4,7 +4,7 @@
 6+ years of experience in Australian bookkeeping using Xero and Quickbooks across a wide range of industries and clients
 - [ ]  AU payroll processing
 - [ ]  TPAR
-- [ ]  Preparation of BAS and IAS
+- [ ]  Prepare BAS and IAS lodgements
 
 ## Software
 [✔]  Xero
