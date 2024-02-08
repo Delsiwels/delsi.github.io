@@ -1,7 +1,7 @@
 # Senior Bookkeeper 
 **Xero Certified Advisor | Quickbooks ProAdvisor**
 
-### Software: 
+### Software
           Xero, Quickbooks Online, 
           Dext, Lightyear, Hubdoc,
           Deputy, Keypay, Employment Hero
@@ -14,9 +14,9 @@
 
 ### Work Experience
 
-**Senior Bookkeeper at Biscuit Business Services**
-  MSP: Techno Global Team 
-  (November 2018 – Present)
+**Senior Bookkeeper at Biscuit Business Services**__
+MSP: Techno Global Team__
+November 2018 – Present__
 
 **Bookkeeper at The Philippines Recruitment Co.**
   MSP: CLEAR Corporate Solutions Philippines Inc.
