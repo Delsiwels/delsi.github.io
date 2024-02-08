@@ -1,28 +1,35 @@
 # Senior Bookkeeper 
 **Xero Certified Advisor | Quickbooks ProAdvisor**
 
-Software: Xero, Quickbooks Online, Dext, Lightyear, Deputy, Karbon HQ,_ 
+### Software: 
+          Xero, Quickbooks Online, Dext, Lightyear, Deputy, Karbon HQ,
           Cliniko, Powerpass, Keypay, Employment Hero
 
 ### Education
           Bachelor of Science in Accountancy 
-          Polytechnic University of the Philippines, Lopez Quezon (March 2009)
+          Polytechnic University of the Philippines -Lopez 
+          April 2009
 
 ### Work Experience
 
-**Senior Bookkeeper at Biscuit Business Services (November 2018 – Present)**__
-MSP: Techno Global Team 
+**Senior Bookkeeper at Biscuit Business Services **
+   MSP: Techno Global Team 
+   (November 2018 – Present)
 
-**Bookkeeper at The Philippines Recruitment Co. (April 2017 – June 2018)**__
-MSP: CLEAR Corporate Solutions Philippines Inc.
+**Bookkeeper at The Philippines Recruitment Co. **
+   MSP: CLEAR Corporate Solutions Philippines Inc.
+   (April 2017 – June 2018)
 
-**Senior Financial Analyst at Deutsche Knowledge Services Pte. Ltd (June 2015 – March 2017)**__
-Business Unit: Asset and Wealth Management - Intercompany Team (US region) - Financial Analysis
+**Senior Financial Analyst at Deutsche Knowledge Services **
+  Dept: Asset and Wealth Management - Intercompany Team (US region) - Financial Analysis
+  June 2015 – March 2017
 
-**Senior Accountant at Global Media Consultants, Inc.(February 2013 – April 2015)**__
-Media representative of CN, CNN, TIME, Fortune and Nikkei Business in the Philippines
+**Senior Accountant at Global Media Consultants, Inc.**
+  Media representative of CN, CNN, TIME, Fortune and Nikkei Business in the Philippines
+  February 2013 – April 2015
 
-**Collections Associate at Convergys Philippines Services Corporation (June 2009 – October 2012)**__
+**Collections Associate at Convergys Philippines Services Corporation **
+  June 2009 – October 2012
 
 
 ### Projects
