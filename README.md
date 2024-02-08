@@ -28,16 +28,19 @@
 **Senior Bookkeeper at Biscuit Business Services** _(Australian company)_ <br />
 _MSP: Techno Global Team_ <br />
 _November 2018 – Present_
-* Set up an internal company site
-* Prepares BASes and IASes for lodgement
-* Prepares EOY Payroll reports for STP Finalisation
-* Communicates with clients directly, sends and responds to queries
+* Contributed proactively to the continuous improvement of the company including setting up of an internal company site
+* Focused on completing jobs within agreed timeframes and time budget
+* Coordinated with team members to ensure good workflow across the company
+* Prepared BASes and IASes for lodgement
+* Prepared EOY Payroll reports for STP Finalisation
+* Prepared TPAR and Long Service leave accrual
+* Communicate with clients directly, send and respond to queries
   
 **Bookkeeper at The Philippines Recruitment Co.** _(Australian company)_ <br />
 _MSP: CLEAR Corporate Solutions Philippines Inc._ <br />
 _April 2017 – June 2018_ 
 * Created financial dashboard and business performance KPIs
-* Bank Reconciliation, Accounts Receivable, and Accounts Payable
+* Handled Bank Reconciliation, Accounts Receivable, and Accounts Payable
 * Prepared and lodged BAS returns, including the posting of journal entries, and month-end closing activities
 * Monthly management report
 * Enhanced executive’s effectiveness by providing administrative support
