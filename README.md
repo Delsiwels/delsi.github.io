@@ -2,10 +2,11 @@
 **Xero Certified Advisor | Quickbooks ProAdvisor** <br />
 
 
-6+ years of experience in Australian bookkeeping using Xero and Quickbooks across a wide range of industries and clients
-- [ ]  AU payroll processing
+6+ years of experience in the following using Xero and Quickbooks across a wide range of industries and clients 
+- [ ]  Bookkeeping
+- [ ]  BAS and IAS preparation & lodgement
+- [ ]  AU Payroll
 - [ ]  TPAR
-- [ ]  Prepare BAS and IAS lodgements
 
 
 ## Software
