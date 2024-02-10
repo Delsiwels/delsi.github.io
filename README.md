@@ -2,7 +2,7 @@
 **Xero Certified Advisor | Quickbooks ProAdvisor** <br />
 
 
-6+ years of experience in the following using Xero and Quickbooks across a wide range of industries and clients 
+6+ years of experience in the following using Xero and Quickbooks across a wide range of industries and clients: 
 - [ ]  Bookkeeping
 - [ ]  BAS and IAS preparation & lodgement
 - [ ]  AU Payroll
@@ -76,8 +76,11 @@ cardholders
 * [Salary and withholding tax calculator website for Employed Filipino workers in the Philippines](https://portfolio-1acc0.web.app/)
 
 ## Contact
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="delsi-sierra" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/delsi-sierra?trk=profile-badge">Linkedin: Delsi Sierra</a></div>
-* [Substack: Delsi] (https://substack.com/@delsi)
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="delsi-sierra" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/delsi-sierra?trk=profile-badge">Linkedin</a></div> 
+
+[Substack](https://substack.com/@delsi) <br />
+[X (Twitter)](https://twitter.com/delsiwels) <br />
+
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
