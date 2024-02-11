@@ -76,7 +76,7 @@ cardholders
 * [Salary and withholding tax calculator website for Employed Filipino workers in the Philippines](https://portfolio-1acc0.web.app/)
 * [Bookkeeper Online Resources List](https://delsiwels.github.io/AUBookkeeping.github.io/)
 
-## Contact
+## Contact me
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="delsi-sierra" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/delsi-sierra?trk=profile-badge">Linkedin</a></div> 
 
 [Substack](https://substack.com/@delsi) <br />
