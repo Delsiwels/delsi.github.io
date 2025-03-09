@@ -79,7 +79,7 @@ _June 2009 – October 2012_
   Created a Google Sheets tool to identify GST-related information on food items.
 * [Gsheet Finder - Search: GST on Overseas subscription](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit#gid=1733277696)
   Developed a Google Sheets tool to track GST on overseas subscriptions.
-* [Gsheet Finder - Search: Can I claim GST on that?]([[https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit#gid=1733277696](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit?pli=1&gid=690612485#gid=690612485)]
+* [Gsheet Finder - Search: Can I claim GST on that?](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit?pli=1&gid=690612485#gid=690612485)
   Created a Google Sheets tool to help users determine GST eligibility for various expenses.
 
 
