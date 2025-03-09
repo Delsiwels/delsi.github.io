@@ -37,7 +37,6 @@ _November 2018 – Present_
 * Prepared and lodged BAS (Business Activity Statements) and IAS (Instalment Activity Statements).
 * Finalised End-of-Year (EOY) Payroll reports for Single Touch Payroll (STP) Finalisation.
 * Communicated directly with clients to address queries and provide support.
-* Prepared Taxable Payments Annual Report (TPAR) and managed Long Service Leave accruals.
   
 **Bookkeeper at The Philippines Recruitment Co.** _(Australian company)_ <br />
 _MSP: CLEAR Corporate Solutions Philippines Inc._ <br />
