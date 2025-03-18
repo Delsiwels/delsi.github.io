@@ -30,7 +30,7 @@
 
 **Senior Bookkeeper at Biscuit Business Services** _(Australian company)_ <br />
 _MSP: Techno Global Team_ <br />
-_November 2018 – Present_
+_November 2018 – April 2024_
 * Proactively contributed to the continuous improvement of the company, including the development and implementation of an internal company site.
 * Ensured timely completion of tasks within agreed timeframes and budgets.
 * Collaborated with team members to maintain efficient workflows across the organization.
