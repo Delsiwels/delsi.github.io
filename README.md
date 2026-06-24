@@ -1,6 +1,6 @@
 # Bookkeeping Manager | AI Product Builder
-**Xero Certified Advisor | Quickbooks ProAdvisor**
-**linkedin.com/in/delsi-sierra | substack.com/@delsi <br />
+**Xero Certified Advisor | Quickbooks ProAdvisor** <br />
+linkedin.com/in/delsi-sierra | substack.com/@delsi <br />
 
 8+ years of experience in the following using Xero and Quickbooks across a wide range of industries and clients: 
 - [ ]  Bookkeeping
