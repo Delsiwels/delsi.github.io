@@ -13,11 +13,11 @@ substack.com/@delsi_
 
 ## Technical Skills
 ### Accounting
-Xero Quickbooks Online MYOB Dext Lightyear Hubdoc Deputy Keypay Employment Hero Karbon HQ Cliniko
+Xero, Quickbooks Online, MYOB, Dext, Lightyear, Hubdoc, Deputy, Keypay, Employment Hero, Karbon HQ, Cliniko
 ### Development
-Python Excel VBA API Integration Github
+Python, Javascript, Excel VBA, API Integration, Github
 ### AI & Automation
-Claude Codex agentic AI frameworks LLM orchestration 
+Claude, Codex, agentic AI frameworks, LLM orchestration 
 
 ## Education
           Bachelor of Science in Accountancy 
