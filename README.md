@@ -80,7 +80,7 @@ _June 2009 – October 2012_
 
           
 ## Projects
-* [FinQL.ai(https://finql.ai)]
+* [FinQL.ai](https://finql.ai)
 * [Salary and withholding tax calculator website for Employed Filipino workers in the Philippines](https://portfolio-1acc0.web.app/)
   Developed a tool for employed Filipino workers in the Philippines to calculate salaries and withholding taxes.
 * [Bookkeeper Online Resources List](https://delsiwels.github.io/AUBookkeeping.github.io/)
