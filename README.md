@@ -5,10 +5,10 @@ substack.com/@delsi_
 
 >Built FinQL.ai — a live AI finance agent that connects to Xero to automate BAS review, payroll checks, and GST coding. Transitioning into AI product and automation roles. <br />
 >8+ years of experience in the following using Xero, Quickbooks, and MYOB across a wide range of industries and clients: 
-- [✔]  Bookkeeping
-- [✔]  BAS and IAS preparation & lodgement
-- [✔]  AU Payroll
-- [✔]  TPAR
+>- [✔]  Bookkeeping
+>- [✔]  BAS and IAS preparation & lodgement
+>- [✔]  AU Payroll
+>- [✔]  TPAR
 
 
 
