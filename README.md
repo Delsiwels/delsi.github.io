@@ -19,12 +19,13 @@ Python, Javascript, Excel VBA, API Integration, Github
 ### AI & Automation
 Claude, Codex, agentic AI frameworks, LLM orchestration 
 
-## Education
-          Bachelor of Science in Accountancy 
-          Polytechnic University of the Philippines - Lopez 
-          April 2009
-
 ## Work Experience
+
+**Senior Bookkeeper at Biscuit Business Services** _(Australian company)_ <br />
+_MSP: Foresight Offshoring_ <br />
+_April 2024 – Present_
+* Manage BAS, IAS, payroll, reconciliation for Australian clients
+* Built Excel VBA add-ins to automate reports, reducing manual processing time
 
 **Senior Bookkeeper at Biscuit Business Services** _(Australian company)_ <br />
 _MSP: Techno Global Team_ <br />
@@ -69,6 +70,7 @@ _June 2009 – October 2012_
 
 
 ## Projects
+* (FinQL.ai)
 * [Salary and withholding tax calculator website for Employed Filipino workers in the Philippines](https://portfolio-1acc0.web.app/)
   Developed a tool for employed Filipino workers in the Philippines to calculate salaries and withholding taxes.
 * [Bookkeeper Online Resources List](https://delsiwels.github.io/AUBookkeeping.github.io/)
@@ -80,6 +82,10 @@ _June 2009 – October 2012_
 * [Gsheet Finder - Search: Can I claim GST on that?](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit?pli=1&gid=690612485#gid=690612485)
   Created a Google Sheets tool to help users determine GST eligibility for various expenses.
 
+## Education
+          Bachelor of Science in Accountancy 
+          Polytechnic University of the Philippines - Lopez 
+          April 2009
 
 ## Contact me
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="delsi-sierra" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/delsi-sierra?trk=profile-badge">Linkedin</a></div> 
