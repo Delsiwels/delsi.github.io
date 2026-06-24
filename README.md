@@ -1,25 +1,22 @@
-# Senior Bookkeeper 
+# Bookkeeping Manager | AI Product Builder
 **Xero Certified Advisor | Quickbooks ProAdvisor** <br />
+**linkedin.com/in/delsi-sierra | substack.com/@delsi <br />
 
-
-6+ years of experience in the following using Xero and Quickbooks across a wide range of industries and clients: 
+8+ years of experience in the following using Xero and Quickbooks across a wide range of industries and clients: 
 - [ ]  Bookkeeping
 - [ ]  BAS and IAS preparation & lodgement
 - [ ]  AU Payroll
 - [ ]  TPAR
+Built FinQL.ai — a live AI finance agent that connects to Xero to automate BAS review, payroll checks, and GST coding. Transitioning into AI product and automation roles.
 
 
-## Software
-[✔]  Xero
-[✔]  Quickbooks Online
-[✔]  Dext
-[✔]  Lightyear
-[✔]  Hubdoc
-[✔]  Deputy
-[✔]  Keypay
-[✔]  Employment Hero
-[✔]  Karbon HQ
-[✔]  Cliniko
+## Technical Skills
+### Accounting
+[✔]Xero [✔]Quickbooks Online [✔]Dext [✔]Lightyear [✔]Hubdoc [✔]Deputy [✔]Keypay [✔]Employment Hero [✔]Karbon HQ [✔]Cliniko
+### Development
+[✔]Python [✔]Excel VBA [✔]API Integration [✔]Github
+### AI & Automation
+[✔]Claude [✔]Codex [✔]agentic AI frameworks [✔]LLM orchestration 
 
 ## Education
           Bachelor of Science in Accountancy 
