@@ -21,7 +21,7 @@ Claude, Codex, agentic AI frameworks, LLM orchestration
 
 ## Work Experience
 
-**Bookkeeper Manager at Bentleys QLD** _(Australian company)_ <br />
+**Bookkeeper Manager at Bentleys QLD** _(Australian accounting firm)_ <br />
 _MSP: Foresight Offshoring_ <br />
 _September 2025 – Present_
 * Built Excel VBA add-ins to automate reports, reducing manual processing time
