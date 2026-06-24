@@ -1,4 +1,4 @@
-# Bookkeeping Manager | AI Product Builder
+# Bookkeeper Manager | AI Product Builder
 **Xero Certified Advisor | Quickbooks ProAdvisor** <br />
 _linkedin.com/in/delsi-sierra <br />
 substack.com/@delsi_
@@ -21,11 +21,16 @@ Claude, Codex, agentic AI frameworks, LLM orchestration
 
 ## Work Experience
 
-**Senior Bookkeeper at Biscuit Business Services** _(Australian company)_ <br />
+**Bookkeeper Manager at Bentleys QLD** _(Australian company)_ <br />
 _MSP: Foresight Offshoring_ <br />
-_April 2024 – Present_
-* Manage BAS, IAS, payroll, reconciliation for Australian clients
+_September 2025 – Present_
 * Built Excel VBA add-ins to automate reports, reducing manual processing time
+* Lead team of 3 bookkeepers; implemented delegation frameworks and quality gates
+  
+**Senior Bookkeeper at Bentleys QLD** _(Australian company)_ <br />
+_MSP: Foresight Offshoring_ <br />
+_April 2024 – August 2025_
+* Manage BAS, IAS, payroll, reconciliation for Australian clients
 
 **Senior Bookkeeper at Biscuit Business Services** _(Australian company)_ <br />
 _MSP: Techno Global Team_ <br />
