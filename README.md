@@ -4,20 +4,20 @@ _linkedin.com/in/delsi-sierra <br />
 substack.com/@delsi_
 
 8+ years of experience in the following using Xero and Quickbooks across a wide range of industries and clients: 
-- [ ]  Bookkeeping
-- [ ]  BAS and IAS preparation & lodgement
-- [ ]  AU Payroll
-- [ ]  TPAR
+- [✔]  Bookkeeping
+- [✔]  BAS and IAS preparation & lodgement
+- [✔]  AU Payroll
+- [✔]  TPAR
 Built FinQL.ai — a live AI finance agent that connects to Xero to automate BAS review, payroll checks, and GST coding. Transitioning into AI product and automation roles.
 
 
 ## Technical Skills
 ### Accounting
-[✔]Xero [✔]Quickbooks Online [✔]Dext [✔]Lightyear [✔]Hubdoc [✔]Deputy [✔]Keypay [✔]Employment Hero [✔]Karbon HQ [✔]Cliniko
+Xero Quickbooks Online MYOB Dext Lightyear Hubdoc Deputy Keypay Employment Hero Karbon HQ Cliniko
 ### Development
-[✔]Python [✔]Excel VBA [✔]API Integration [✔]Github
+Python Excel VBA API Integration Github
 ### AI & Automation
-[✔]Claude [✔]Codex [✔]agentic AI frameworks [✔]LLM orchestration 
+Claude Codex agentic AI frameworks LLM orchestration 
 
 ## Education
           Bachelor of Science in Accountancy 
