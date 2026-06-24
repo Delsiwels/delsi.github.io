@@ -27,12 +27,12 @@ _September 2025 – Present_
 * Built Excel VBA add-ins to automate reports, reducing manual processing time
 * Lead team of 3 bookkeepers; implemented delegation frameworks and quality gates
   
-**Senior Bookkeeper at Bentleys QLD** _(Australian company)_ <br />
+**Senior Bookkeeper at Bentleys QLD** _(Australian accounting firm)_ <br />
 _MSP: Foresight Offshoring_ <br />
 _April 2024 – August 2025_
 * Manage BAS, IAS, payroll, reconciliation for Australian clients
 
-**Senior Bookkeeper at Biscuit Business Services** _(Australian company)_ <br />
+**Senior Bookkeeper at Biscuit Business Services** _(Australian bookkeeping firm)_ <br />
 _MSP: Techno Global Team_ <br />
 _November 2018 – April 2024_
 * Proactively contributed to the continuous improvement of the company, including the development and implementation of an internal company site.
