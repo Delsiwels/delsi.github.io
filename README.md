@@ -1,7 +1,7 @@
 # Bookkeeper Manager | AI Product Builder
 **Xero Certified Advisor | Quickbooks ProAdvisor** <br />
-_linkedin.com/in/delsi-sierra <br />
-substack.com/@delsi_
+_[Linkedin](linkedin.com/in/delsi-sierra) <br />
+_[Substack](substack.com/@delsi)_
 
 >Built FinQL.ai — a live AI finance agent that connects to Xero to automate BAS review, payroll checks, and GST coding. Transitioning into AI product and automation roles. 8+ years of experience in the following using Xero, Quickbooks, and MYOB across a wide range of industries and clients: 
 >- [✔]  Bookkeeping
